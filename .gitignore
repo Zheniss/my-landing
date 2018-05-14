@@ -3,3 +3,4 @@ build
 .DS_Store
 npm-debug.log
 error.log
+package-lock.json
